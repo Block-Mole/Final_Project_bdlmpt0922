@@ -1,2 +1,5 @@
 .env
 .ipynb_checkpoints
+dlib/
+raw_d/
+ex_convolutional_neural_network.ipynb
