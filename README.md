@@ -28,7 +28,20 @@ Features:
     
 
 ## Repository info
-En la carpeta final_project_v2 encontrarás:
+In the final_project folder you will find:
+
+    - folder model_exe:
+        - model.json : trained model converted to json
+        - groupX-shardXofX.bin: trained model weights
+        - index.html: contains the code to run the model on the browser
+    - data_model_set_up.ipynb:
+        - data cleaning process
+        - model set up and train
+    - exe_instructions.ipynb:
+        - steps by step guide of how to run the model locally
+    - model_export.ipynb:
+        - lines to export de model
+
 
 
 ## Developement
